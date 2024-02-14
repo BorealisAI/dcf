@@ -1,0 +1,10 @@
+package, license, URL
+GluonTS, Apache License 2.0, https://github.com/awslabs/gluon-ts
+PyTorchTS, MIT License, https://github.com/zalandoresearch/pytorch-ts
+PyTorch, https://github.com/pytorch/pytorch/blob/master/LICENSE, https://github.com/pytorch/pytorch
+MXNet, Apache License 2.0, https://github.com/apache/incubator-mxnet
+NumPy, BSD 3-Clause "New" or "Revised" License, https://github.com/numpy/numpy
+SciPy, BSD 3-Clause "New" or "Revised" License, https://github.com/scipy/scipy
+Pandas, BSD 3-Clause "New" or "Revised" License, https://github.com/pandas-dev/pandas/
+matplotlib, https://github.com/matplotlib/matplotlib/tree/main/LICENSE, https://github.com/matplotlib/matplotlib
+tqdm, https://github.com/tqdm/tqdm/blob/master/LICENCE, https://github.com/tqdm/tqdm
