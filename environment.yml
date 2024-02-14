@@ -1,0 +1,15 @@
+name: dcf
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.9.7
+  - pytorch=1.10.1
+  - cudatoolkit=10.2
+  - pip
+  - pip:
+    - mxnet-cu102==1.7.0
+    - gluonts==0.8.1
+    - pytorchts==0.5.1
+    - numpy==1.21.5
+    - matplotlib
